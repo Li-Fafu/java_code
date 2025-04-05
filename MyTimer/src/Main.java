@@ -4,7 +4,6 @@
 // ArrayList 不太合适
 // 更好的选择是优先级队列.
 
-
 import java.util.PriorityQueue;
 
 //因为要按照时间顺序来存放入优先级队列，所以要指定”比较规则“
