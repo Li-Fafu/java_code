@@ -45,4 +45,8 @@ public class Solution2 {
             return qsort(nums, l, left, k - rightInterval - middleInterval);
         }
     }
+    
+    public static void main(String[] args) {
+        int[] arr = new int[0];
+    }
 }
